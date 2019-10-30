@@ -1,2 +1,2 @@
-# learning
-Codes under learn
+# Learning folders and files
+Codes to learn
