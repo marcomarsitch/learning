@@ -1,2 +1,2 @@
 # learning
-Codes understand learning
+Codes under learn
